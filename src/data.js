@@ -1,16 +1,16 @@
 const toDoListData = [
 	{
-		title: "Learn more about React",
+		title: 'Learn more about React',
 		completed: true
 	},
 	{
-		title: "Write a new Component",
+		title: 'Write a new Component',
 		completed: false
 	},
 	{
-		title: "Add some style",
+		title: 'Add some style',
 		completed: false
 	}
 ];
 
-module.exports=toDoListData;
+module.exports = toDoListData;
