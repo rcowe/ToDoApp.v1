@@ -16,8 +16,8 @@ const toDoListData = [
 	},
 	{
 		id: 4,
-		title: 'Test',
-		completed: false
+		title: 'Killing the CSS game',
+		completed: true
 	}
 ];
 
